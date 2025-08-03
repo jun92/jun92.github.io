@@ -1,1 +1,1 @@
-# Hello World
+# About Syncnet platform for online game services
